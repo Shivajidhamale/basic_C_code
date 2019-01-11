@@ -78,7 +78,7 @@ void print_list(Node *Head){
 
 int main(){
 
-	printf("\n\n Program to merger two sorted linked list recursively:-");
+	printf("\n\n Program to merger two sorted linked list iteratively:-");
 
 	Node *list1_head = NULL;
 	int index, data = 10;
