@@ -1,4 +1,4 @@
-SHDHAMAL-M-J2F1:~ shdhamal$ cat add_nos_from_2_lists.c
+
 /*
 1.
 
